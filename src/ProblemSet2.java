@@ -73,7 +73,7 @@ public class ProblemSet2 {
         System.out.println("\nDOLLARS  : " + dollarAmt);
         System.out.println("QUARTERS : " + quarterAmt);
         System.out.println("DIMES    : " + dimeAmt);
-        System.out.println("NICKElS  : " + nickelAmt);
+        System.out.println("NICKELS  : " + nickelAmt);
         System.out.println("PENNIES  : " + pennyAmt);
 
         /*
